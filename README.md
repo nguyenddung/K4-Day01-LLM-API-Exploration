@@ -67,6 +67,10 @@ Code trong `template.py` đã gọi sẵn `load_dotenv()` nên key trong `.env`
 commit hoặc chia sẻ API key**.
 
 ---
+### Chạy UI/UX 
+```bash
+streamlit run app.py
+```
 
 ## Lịch Trình & Checkpoint
 
