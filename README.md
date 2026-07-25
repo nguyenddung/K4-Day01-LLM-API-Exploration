@@ -71,6 +71,7 @@ commit hoặc chia sẻ API key**.
 ```bash
 streamlit run app.py
 ```
+![Ảnh minh hoạ](image/anh_minh_hoa.jpg)
 
 ## Lịch Trình & Checkpoint
 
